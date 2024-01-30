@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/emretechno?tab=repositories](https://github.com/emretechno?tab=repositories)
 
-- 💬 Ask me about **C++**
-
 - 📫 How to reach me **y.kilicer2021@gtu.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
