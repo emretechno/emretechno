@@ -1,7 +1,7 @@
-<div style="color: #e74c3c;">
+<div style="color: #e74c3c; font-size: 1.5em;">
   <p align="left">
     <a href="https://github.com/emretechno">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Emre%20The%20Programming%20Student&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=EMRE%20THE%20PROGRAMMING%20STUDENT&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
     </a>
   </p>
 </div>
