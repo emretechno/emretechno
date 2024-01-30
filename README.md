@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://github.com/emretechno">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Y.EMRE%20KILICER&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" style="font-style: italic; color: red;" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Y.EMRE%20KILICER&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
   </a>
 </p>
 <h3 align="center" style="color: #2ecc71; font-style: italic; font-size: 1.5em;">Always hungry for knowledge and striving to outperform yesterday</h3>
