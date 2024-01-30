@@ -1,9 +1,45 @@
-<h1 align="center">Hello There! Yusuf Emre KILICER</h1>
-<h3 align="center">Always eager to learn and get things done better than the day before</h3>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    body {
+      background-color: #f0f0f0;
+      color: #333;
+    }
+
+    h1 {
+      text-align: center;
+      animation: fadeIn 2s ease-in-out;
+      color: #007acc; /* Blue color */
+    }
+    
+    h3 {
+      color: #2c3e50; /* Dark gray color */
+    }
+
+    /* Add your own styles for the rest of the content */
+  </style>
+  <title>Hello Animation</title>
+</head>
+<body>
+  <h1>Hello There! Yusuf Emre KILICER</h1>
+
+  <h3 align="center">Always eager to learn and get things done better than the day before</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/a48ccf6a-1152-11ee-9851-873cfcc428ed/GD2QQFtP9N.gif">
 
-
-- 🌱 I’m currently learning **OOP / Augmented Reality**
+- 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ Augmented Reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emretechno?tab=repositories](https://github.com/emretechno?tab=repositories)
 
@@ -16,7 +52,7 @@
 <a href="https://kaggle.com/yusuf emre kilicer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusuf emre kilicer" height="30" width="40" /></a>
 <a href="https://instagram.com/y.emr3kilicer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.emr3kilicer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yusuf emre kılıçer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuf emre kılıçer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yusuf_klcrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yusuf_klcrr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yusuf_klcrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yusuf_klcrr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/e3mr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e3mr3" height="30" width="40" /></a>
 </p>
 
