@@ -1,6 +1,6 @@
 <h1 align="center">Hello There! Yusuf Emre KILICER</h1>
 <h3 align="center">Always eager to learn and get things done better than the day before</h3>
-<(img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/a48ccf6a-1152-11ee-9851-873cfcc428ed/GD2QQFtP9N.gif")>
+<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/a48ccf6a-1152-11ee-9851-873cfcc428ed/GD2QQFtP9N.gif">
 
 
 - 🌱 I’m currently learning **OOP / Augmented Reality**
