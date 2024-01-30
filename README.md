@@ -1,8 +1,10 @@
-<p align="left">
-  <a href="https://github.com/emretechno">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Emre%20TheProgrammer&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
-  </a>
-</p>
+<div style="color: #e74c3c;">
+  <p align="left">
+    <a href="https://github.com/emretechno">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Emre%20The%20Programming%20Student&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
+    </a>
+  </p>
+</div>
 <h3 align="center" style="color: #2ecc71; font-style: italic; font-size: 1.5em;">Always hungry for knowledge and striving to outperform yesterday</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_0173.png">
 
