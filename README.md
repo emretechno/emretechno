@@ -1,5 +1,41 @@
-<h1 align="center">Hello There! Yusuf Emre KILICER</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    h1 {
+      text-align: center;
+      animation: fadeIn 2s ease-in-out;
+      color: #ff00ff; /* Magenta color */
+    }
+
+    body {
+      background-color: #f0f0f0;
+      color: #333;
+    }
+
+    h3 {
+      color: #2c3e50; /* Dark gray color */
+    }
+
+    /* Add your own styles for the rest of the content */
+  </style>
+  <title>Hello Animation</title>
+</head>
+<body>
+  <h1>Hello There! Yusuf Emre KILICER</h1>
 <h3 align="center">Always eager to learn and get things done better than the day before</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_0173.png">
 
 - 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ Augmented Reality**
 
