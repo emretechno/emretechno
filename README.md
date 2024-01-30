@@ -1,6 +1,6 @@
-<h1 align="center">Hello There! Yusuf Emre KILICER</h1>
-<h3 align="center">Always eager to learn and get things done better than the day before</h3>
-<img align="right" alt="https://github.com/emretechno/emretechno/blob/main/IMG_0173.png">
+<h1 align="center" style="color: #3498db;">Hello There! Yusuf Emre KILICER</h1>
+<h3 align="center" style="color: #2ecc71;">Always eager to learn and get things done better than the day before</h3>
+  <img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_0173.png">
 
 - 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ Augmented Reality**
 
