@@ -1,4 +1,3 @@
-
 <p align="right">
   <a href="https://github.com/emretechno">
     <img src="https://readme-typing-svg.demolab.com/?lines=Y.EMRE%20KILICER&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
