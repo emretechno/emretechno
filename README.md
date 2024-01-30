@@ -1,6 +1,5 @@
 <h1 align="center">Hello There! Yusuf Emre KILICER</h1>
 <h3 align="center">Always eager to learn and get things done better than the day before</h3>
-<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/a48ccf6a-1152-11ee-9851-873cfcc428ed/GD2QQFtP9N.gif">
 
 - 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ Augmented Reality**
 
@@ -14,7 +13,7 @@
 <a href="https://stackoverflow.com/users/yusuf emre kılıçer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yusuf emre kılıçer" height="30" width="40" /></a>
 <a href="https://kaggle.com/yusuf emre kilicer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusuf emre kilicer" height="30" width="40" /></a>
 <a href="https://instagram.com/y.emr3kilicer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.emr3kilicer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yusuf emre kılıçer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuf emre kılıçer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yusufemreklcer3392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusufemreklcer3392" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yusuf_klcrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yusuf_klcrr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/e3mr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e3mr3" height="30" width="40" /></a>
 </p>
