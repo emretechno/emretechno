@@ -6,7 +6,7 @@
 <h3 align="center" style="color: #2ecc71; font-style: italic; font-size: 1.5em;">Always hungry for knowledge and striving to outperform yesterday</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_0173.png">
 
-- 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ Augmented Reality**
+- 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ DATA PROGRAMMING**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emretechno?tab=repositories](https://github.com/emretechno?tab=repositories)
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuf emre kılıçer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf emre kılıçer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yusuf-emre-kılıçer-5ab0231a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf emre kılıçer" height="30" width="40" /></a>
 <a href="https://instagram.com/y.emr3kilicer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.emr3kilicer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yusufemreklcer3392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusufemreklcer3392" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yusuf_klcrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yusuf_klcrr" height="30" width="40" /></a>
