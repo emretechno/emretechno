@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center" style="color: #2ecc71; font-style: italic; font-size: 1.5em;">Always hungry for knowledge and striving to outperform yesterday</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_0173.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_6457.jpg">
 
 - 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ DATA PROGRAMMING**
 
