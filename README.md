@@ -6,9 +6,10 @@
 <h3 align="center" style="color: #2ecc71; font-style: italic; font-size: 1.5em;">Always hungry for knowledge and striving to outperform yesterday</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_6457.jpg">
 
-- 🌱 I’m currently learning **OOP / SYSTEM PROGRAMMING/ DATA PROGRAMMING**
+- 🌱 I’m currently working on  **OOP  / Full Stack Web Developing / DATA PROGRAMMING(MYSQL-R)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emretechno?tab=repositories](https://github.com/emretechno?tab=repositories)
+- 👨‍💻 My personel website is  [https://emretechno.github.io/WhoIsEmre/](https://emretechno.github.io/WhoIsEmre/)
 
 - 📫 How to reach me **y.kilicer2021@gtu.edu.tr**
 
@@ -21,7 +22,5 @@
 <a href="https://www.leetcode.com/e3mr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e3mr3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emretechno&show_icons=true&locale=en&layout=compact" alt="emretechno" /></p>
