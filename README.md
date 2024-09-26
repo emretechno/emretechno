@@ -6,7 +6,7 @@
 <h3 align="center" style="color: #2ecc71; font-style: italic; font-size: 1.5em;">Always hungry for knowledge and striving to outperform yesterday</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/emretechno/emretechno/blob/main/IMG_6457.jpg">
 
-- 🌱 I’m currently working on  **OOP  / Full Stack Web Developing / DATA PROGRAMMING(MYSQL-R)**
+- 🌱 I’m currently working on  **OOP  / Full Stack Web Developing / Data Programming (MYSQL-R)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emretechno?tab=repositories](https://github.com/emretechno?tab=repositories)
 - 👨‍💻 My personel website is  [https://emretechno.github.io/WhoIsEmre/](https://emretechno.github.io/WhoIsEmre/)
@@ -22,5 +22,3 @@
 <a href="https://www.leetcode.com/e3mr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="e3mr3" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emretechno&show_icons=true&locale=en&layout=compact" alt="emretechno" /></p>
